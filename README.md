@@ -9,3 +9,7 @@ A secure web application built with Python Flask and MySQL.
 - bcrypt password security
 - Docker containerized
 - update 1
+- update 2
+- update 3
+- update 4
+- 
