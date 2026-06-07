@@ -8,3 +8,4 @@ A secure web application built with Python Flask and MySQL.
 - Admin panel
 - bcrypt password security
 - Docker containerized
+- update 1
